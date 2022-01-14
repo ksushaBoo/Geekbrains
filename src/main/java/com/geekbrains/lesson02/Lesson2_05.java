@@ -4,7 +4,7 @@ public class Lesson2_05 {
 
     public static void main(String[] args) {
 
-        if (isYearBissextile(2016) == true)
+        if (isYearBissextile(600) == true)
             System.out.println("год високосный");
         else System.out.println("год не високосный");
     }
